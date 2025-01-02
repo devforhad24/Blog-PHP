@@ -9,7 +9,7 @@
         <li><a href="#">Privacy</a></li>
     </ul>
     </div>
-    <p>&copy; Copyright Developed BY Forhad.</p>
+    <p>&copy; <?php echo date("Y"); ?> Copyright Developed BY Forhad.</p>
 </div>
 <div class="fixedicon clear">
     <a href="http://www.facebook.com"><img src="images/fb.png" alt="Facebook"/></a>
